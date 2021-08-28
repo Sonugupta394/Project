@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="43" started-at="2021-08-23T13:07:30Z" finished-at="2021-08-23T13:07:30Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="43" started-at="2021-08-23T13:07:30Z" finished-at="2021-08-23T13:07:30Z">
+      <class name="TestNg.Listeners.IAnotationTransformerWithExample">
+        <test-method status="PASS" signature="changeInvocationCountOfMethod()[pri:0, instance:TestNg.Listeners.IAnotationTransformerWithExample@5034c75a]" name="changeInvocationCountOfMethod" duration-ms="20" started-at="2021-08-23T18:37:30Z" finished-at="2021-08-23T18:37:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- changeInvocationCountOfMethod -->
+        <test-method status="PASS" signature="changeInvocationCountOfMethod()[pri:0, instance:TestNg.Listeners.IAnotationTransformerWithExample@5034c75a]" name="changeInvocationCountOfMethod" duration-ms="2" started-at="2021-08-23T18:37:30Z" finished-at="2021-08-23T18:37:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- changeInvocationCountOfMethod -->
+        <test-method status="PASS" signature="changeInvocationCountOfMethod()[pri:0, instance:TestNg.Listeners.IAnotationTransformerWithExample@5034c75a]" name="changeInvocationCountOfMethod" duration-ms="0" started-at="2021-08-23T18:37:30Z" finished-at="2021-08-23T18:37:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- changeInvocationCountOfMethod -->
+        <test-method status="PASS" signature="changeInvocationCountOfMethod()[pri:0, instance:TestNg.Listeners.IAnotationTransformerWithExample@5034c75a]" name="changeInvocationCountOfMethod" duration-ms="0" started-at="2021-08-23T18:37:30Z" finished-at="2021-08-23T18:37:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- changeInvocationCountOfMethod -->
+        <test-method status="PASS" signature="changeInvocationCountOfMethod()[pri:0, instance:TestNg.Listeners.IAnotationTransformerWithExample@5034c75a]" name="changeInvocationCountOfMethod" duration-ms="0" started-at="2021-08-23T18:37:30Z" finished-at="2021-08-23T18:37:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- changeInvocationCountOfMethod -->
+      </class> <!-- TestNg.Listeners.IAnotationTransformerWithExample -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
